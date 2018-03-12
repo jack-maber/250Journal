@@ -1,1 +1,2 @@
-# 250Journal
+# COMP210 Research Journal
+
